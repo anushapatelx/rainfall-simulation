@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# environments (commit environment.yml only, not the environment itself)
+.venv/
+venv/
+env/
