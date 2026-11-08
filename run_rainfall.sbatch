@@ -31,7 +31,7 @@ module load mamba/py3.12
 cd "$SLURM_SUBMIT_DIR"
 mkdir -p results
 eval "$(conda shell.bash hook)"
-conda activate ~/envs/rainsim
+conda activate ~/envs/rainism
 export MPLBACKEND=Agg
 export OMP_NUM_THREADS=1
 echo "Hostname: $(hostname)"
