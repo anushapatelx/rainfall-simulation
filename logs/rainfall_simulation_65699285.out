@@ -1,0 +1,12 @@
+Hostname: gl3097.arc-ts.umich.edu
+Date: Sun Nov  8 12:25:23 EST 2026
+Python executable: /home/anushapx/envs/rainism/bin/python
+Python version: Python 3.12.16
+4 scenarios x 3000000 years
+ mean_total_mm  std_total_mm  drought_prob  mean_longest_dry  p99_longest_dry  p_wet_wet
+       924.306        99.724         0.008            10.173             19.0       0.30
+       923.415       111.142         0.017            14.029             27.0       0.50
+       921.530       134.016         0.043            21.793             43.0       0.70
+       916.886       178.211         0.109            37.251             77.0       0.85
+done in 557.7 s; wrote CSVs to results/
+wrote results/summary.png

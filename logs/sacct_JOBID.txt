@@ -1,0 +1,5 @@
+JobID           JobName  Partition    Account  AllocCPUS      State ExitCode    Elapsed   TotalCPU     MaxRSS     ReqMem 
+------------ ---------- ---------- ---------- ---------- ---------- -------- ---------- ---------- ---------- ---------- 
+65699285     rainfall_+   standard compfor20+          1  COMPLETED      0:0   00:09:29  09:18.753                    2G 
+65699285.ba+      batch            compfor20+          1  COMPLETED      0:0   00:09:29  09:18.753    496368K            
+65699285.ex+     extern            compfor20+          1  COMPLETED      0:0   00:09:29   00:00:00                       
