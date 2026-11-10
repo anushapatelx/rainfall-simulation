@@ -1,3 +1,7 @@
+"""
+I used Claude (2026) on 11/08/2026 to write this code. I went through the code to undestand
+how the different functions are working and assessing if the calculations are correctly written
+"""
 """Make a 4-panel figure from the CSVs.  Example: python plot_results.py results"""
 
 import os
